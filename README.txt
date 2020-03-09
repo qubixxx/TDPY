@@ -1,0 +1,1 @@
+Si dese verificar el funcionamiento de alguno de los proyectos es necesario que adicione los node_modules pues por practicidad no se cargan en los commits para evitar extender enormemente el tiempo de carga, si desconoce cual es el proceso para descargarlos via npm puede encontrarlos como "proyect.rar"
